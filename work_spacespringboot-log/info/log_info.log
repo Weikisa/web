@@ -1,0 +1,60 @@
+===2019-08-19 13:27:14.361 INFO  com.wangyang.web.WebApplication Line:50  - Starting WebApplication on S166003742-NB with PID 10456 (D:\java\web\target\classes started by Weikisa_Wang in D:\java\web)
+===2019-08-19 13:27:14.410 INFO  com.wangyang.web.WebApplication Line:651 - The following profiles are active: dev
+===2019-08-19 13:27:14.649 INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:225 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+===2019-08-19 13:27:14.649 INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:225 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+===2019-08-19 13:27:15.658 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+===2019-08-19 13:27:15.676 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:182 - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+===2019-08-19 13:27:16.041 INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker Line:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5baea45d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+===2019-08-19 13:27:16.453 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:90  - Tomcat initialized with port(s): 8080 (http)
+===2019-08-19 13:27:16.638 INFO  org.springframework.web.context.ContextLoader Line:284 - Root WebApplicationContext: initialization completed in 1989 ms
+===2019-08-19 13:27:16.789 INFO  com.zaxxer.hikari.HikariDataSource Line:110 - HikariPool-1 - Starting...
+===2019-08-19 13:27:18.096 INFO  org.hibernate.jpa.internal.util.LogHelper Line:31  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+===2019-08-19 13:27:18.151 INFO  org.hibernate.Version Line:46  - HHH000412: Hibernate Core {5.3.10.Final}
+===2019-08-19 13:27:18.153 INFO  org.hibernate.cfg.Environment Line:213 - HHH000206: hibernate.properties not found
+===2019-08-19 13:27:18.324 INFO  org.hibernate.annotations.common.Version Line:49  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+===2019-08-19 13:27:18.569 INFO  com.zaxxer.hikari.HikariDataSource Line:110 - HikariPool-1 - Starting...
+===2019-08-19 13:27:19.615 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener Line:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+===2019-08-19 13:28:48.549 INFO  com.wangyang.web.WebApplication Line:50  - Starting WebApplication on S166003742-NB with PID 12988 (D:\java\web\target\classes started by Weikisa_Wang in D:\java\web)
+===2019-08-19 13:28:48.553 INFO  com.wangyang.web.WebApplication Line:651 - The following profiles are active: dev
+===2019-08-19 13:28:48.684 INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:225 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+===2019-08-19 13:28:48.684 INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:225 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+===2019-08-19 13:28:49.472 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+===2019-08-19 13:28:49.497 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:182 - Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
+===2019-08-19 13:28:49.852 INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker Line:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$766154b0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+===2019-08-19 13:28:50.230 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:90  - Tomcat initialized with port(s): 8080 (http)
+===2019-08-19 13:28:50.394 INFO  org.springframework.web.context.ContextLoader Line:284 - Root WebApplicationContext: initialization completed in 1710 ms
+===2019-08-19 13:28:50.540 INFO  com.zaxxer.hikari.HikariDataSource Line:110 - HikariPool-1 - Starting...
+===2019-08-19 13:28:51.878 INFO  org.hibernate.jpa.internal.util.LogHelper Line:31  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+===2019-08-19 13:28:51.932 INFO  org.hibernate.Version Line:46  - HHH000412: Hibernate Core {5.3.10.Final}
+===2019-08-19 13:28:51.934 INFO  org.hibernate.cfg.Environment Line:213 - HHH000206: hibernate.properties not found
+===2019-08-19 13:28:52.051 INFO  org.hibernate.annotations.common.Version Line:49  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+===2019-08-19 13:28:52.285 INFO  com.zaxxer.hikari.HikariDataSource Line:110 - HikariPool-1 - Starting...
+===2019-08-19 13:28:53.341 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener Line:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+===2019-08-19 13:30:34.975 INFO  com.wangyang.web.WebApplication Line:50  - Starting WebApplication on S166003742-NB with PID 7472 (D:\java\web\target\classes started by Weikisa_Wang in D:\java\web)
+===2019-08-19 13:30:35.038 INFO  com.wangyang.web.WebApplication Line:651 - The following profiles are active: dev
+===2019-08-19 13:30:35.093 INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:225 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+===2019-08-19 13:30:35.094 INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Line:225 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+===2019-08-19 13:30:35.845 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+===2019-08-19 13:30:35.863 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate Line:182 - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+===2019-08-19 13:30:36.207 INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker Line:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f0b80e6e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+===2019-08-19 13:30:36.551 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer Line:90  - Tomcat initialized with port(s): 8080 (http)
+===2019-08-19 13:30:36.730 INFO  org.springframework.web.context.ContextLoader Line:284 - Root WebApplicationContext: initialization completed in 1636 ms
+===2019-08-19 13:30:36.873 INFO  com.zaxxer.hikari.HikariDataSource Line:110 - HikariPool-1 - Starting...
+===2019-08-19 13:30:38.137 INFO  org.hibernate.jpa.internal.util.LogHelper Line:31  - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+===2019-08-19 13:30:38.192 INFO  org.hibernate.Version Line:46  - HHH000412: Hibernate Core {5.3.10.Final}
+===2019-08-19 13:30:38.193 INFO  org.hibernate.cfg.Environment Line:213 - HHH000206: hibernate.properties not found
+===2019-08-19 13:30:38.304 INFO  org.hibernate.annotations.common.Version Line:49  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+===2019-08-19 13:30:38.540 INFO  com.zaxxer.hikari.HikariDataSource Line:110 - HikariPool-1 - Starting...
+===2019-08-19 13:30:39.594 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener Line:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.

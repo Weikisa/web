@@ -1,0 +1,13 @@
+server:
+  port: 80
+spring:
+  thymeleaf:
+    mode: HTMl
+  profiles:
+    active: dev
+  messages:
+    #国际化配置文件集中存放的路径
+    basename: i18n/messages
+
+comment.avatar: 'http://pic.yupoo.com/weikisa/333448c2/0725955d.jpeg'
+blog.serverurl: 106.12.71.148
